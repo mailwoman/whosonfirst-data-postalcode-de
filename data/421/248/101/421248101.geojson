@@ -37,7 +37,7 @@
     "wof:id":421248101,
     "wof:lastmodified":1474569619,
     "wof:name":"08648",
-    "wof:parent_id":"101826101",
+    "wof:parent_id":101826101,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-de",
     "wof:superseded_by":[],

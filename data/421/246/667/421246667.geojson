@@ -15,8 +15,7 @@
         85682517,
         102191581,
         85633111,
-        101806951,
-        102064189
+        101806951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -28,7 +27,6 @@
         {
             "continent_id":102191581,
             "country_id":85633111,
-            "county_id":102064189,
             "locality_id":101806951,
             "postalcode_id":421246667,
             "region_id":85682517

@@ -16,8 +16,7 @@
         102191581,
         85633111,
         404227559,
-        101784355,
-        102063333
+        101784355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -29,7 +28,6 @@
         {
             "continent_id":102191581,
             "country_id":85633111,
-            "county_id":102063333,
             "locality_id":101784355,
             "macrocounty_id":404227559,
             "postalcode_id":421245231,
